@@ -1,0 +1,2 @@
+This line will create a conflict.
+This line was changed on feature branch
