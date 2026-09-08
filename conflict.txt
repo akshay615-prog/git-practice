@@ -1,2 +1,6 @@
 This line will create a conflict.
+<<<<<<< HEAD
 This line was changed on MAIN AGAIN
+=======
+This line was changed on FEATURE AGAIN
+>>>>>>> feature-test
